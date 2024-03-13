@@ -15,7 +15,7 @@ const int G5 = A0;
 const int G6 = A1;
 
 Joystick_ Joystick(JOYSTICK_DEFAULT_REPORT_ID,
-                   JOYSTICK_TYPE_JOYSTICK, 7, 0,
+                   JOYSTICK_TYPE_JOYSTICK, 6, 0,
                    false, false, false, false, false, false,
                    false, false, false, false, false);
 
